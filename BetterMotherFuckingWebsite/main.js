@@ -5,4 +5,3 @@ function popup()
 }
 setTimeout(popup, 10000);
 
-<script src="scripts/main.js"></script>
