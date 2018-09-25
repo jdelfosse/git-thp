@@ -1,0 +1,57 @@
+.italic
+{
+	font-style:italic;
+}
+
+.gras
+{
+	font-weight:bold;
+}
+
+h1
+{
+	font-size:35px;
+}
+
+h2
+{
+	padding-top:6px;
+	font-size:27px;
+}
+
+h3
+{
+	font-size:21px;
+}
+
+ul
+{
+	padding-top:2px;
+	font-size:18px;
+	line-height:27px;
+}
+
+p
+{
+	padding-top:6px;
+	font-size:18px;
+	line-height:28px;
+}
+
+#margin
+{
+	padding-top:6px;
+	font-size:18px;
+	line-height:28px;
+	padding-left:40px;
+	padding-bottom:15px;
+}
+
+#container
+{
+	padding-top:10px;
+	margin:auto;
+	width: 660px;
+	color:#424242;
+	padding-bottom:12px;
+}
